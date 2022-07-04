@@ -1,0 +1,20 @@
+<tv generator-info-name="LTO - Pastebin" generator-info-url="https://pastebin.com/">
+<channel id="LTOTV">
+<display-name lang="es">LTOTV</display-name>
+<icon src="https://1.bp.blogspot.com/-7WMCAEPB0pc/YUODp6R9UhI/AAAAAAAAANI/BYubtojWstcxkoMyYvFcb1aogrQ-poEswCLcBGAsYHQ/s150/My%2BPost%2B%252855%2529.png"/>
+<url>http://lastejasonline.blogspot.com/</url>
+</channel>
+<programme start="20220604003000 -0300" stop="20230604003000 -0300" channel="LTOTV">
+<title lang="es">Radio Valle Viejo</title>
+<desc lang="es">El líder indiscutido del periodismo catamarqueño.
+Identificada netamente con la comunidad catamarqueña, Las 24hs por LTO Television</desc>
+<date>2022</date>
+<icon src=""/>
+</programme>
+<programme start="20230604003001 -0300" stop="20240604003000 -0300" channel="LTOTV">
+<title lang="es">Radio Valle Viejo</title>
+<desc lang="es">El líder indiscutido del periodismo catamarqueño.
+Identificada netamente con la comunidad catamarqueña, Las 24hs por LTO Television</desc>
+<date>2022</date>
+<icon src=""/>
+</programme>
