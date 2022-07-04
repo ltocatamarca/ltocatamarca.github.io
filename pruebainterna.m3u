@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo=" " group-title="EVENTOS DEPORTIVOS", LTO TV
+#EXTINF:-1 tvg-id="LTOTV" tvg-logo=" " group-title="EVENTOS DEPORTIVOS", LTO TV
 https://ltocatamarca.github.io/ltotv.m3u8
