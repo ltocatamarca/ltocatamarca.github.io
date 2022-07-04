@@ -1,11 +1,10 @@
-<tv generator-info-name="GitHub" generator-info-url="http://www.github.com/">
-<channel id="LTOTV">
-<display-name lang="es">LTOTV</display-name>
+<tv generator-info-name="GitHub - LTO" generator-info-url="http://www.github.com/">
+<channel id="LTO">
+<display-name lang="es">LTO</display-name>
 <icon src="https://serenotv.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2022/02/Imagen18-1-300x300.png.webp"/>
 <url>http://lastejasonline.blogspot.com/</url></channel>
-
 </programme>
-<programme start="20220604000000 -0300" stop="20230604000000 -0300" channel="LTOTV">
+<programme start="20220604000000 -0300" stop="20230607230000 -0300" channel="LTO">
 <title lang="es">Radio Valle Viejo</title>
 <desc lang="es">La Radio que esta en el Corazon de la Gente, Las 24hs.</desc>
 <date>2022</date>
