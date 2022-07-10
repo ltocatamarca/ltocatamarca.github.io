@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1140483,CODECS="avc1.100.31,mp4a.40.2",RESOLUTION=854x480
+https://stmvideo1.livecastv.com/valleviejo/valleviejo/chunklist_w182129178.m3u8
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="lto_audio",LANGUAGE="esp",NAME="LTO Television",
+ AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="lto_audio",LANGUAGE="esp",NAME="LTO Radio",
+ AUTOSELECT=NO,DEFAULT=NO,URI="https://stream.zeno.fm/53v3zysszk0uv"
