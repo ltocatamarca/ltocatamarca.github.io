@@ -2,3 +2,6 @@
 
 #EXTINF:-1 tvg-id="LTOTV" tvg-logo=" " group-title="EVENTOS DEPORTIVOS", LTO TV
 https://ltocatamarca.github.io/ltotv.m3u8
+
+#EXTINF:-1 tvg-id="LTOTV" tvg-logo=" " group-title="EVENTOS DEPORTIVOS", LTO TV Prueba
+https://ltocatamarca.github.io/ltotvprueba.m3u8
