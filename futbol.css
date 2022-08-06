@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700|Open+Sans:300,400,700');
+.r18-container {
+  max-width: 1068px;
+  margin: 0 auto;
+  width: 100%;
+  background: #0f3f79;
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.r18-container>* {
+  flex: 1 100%;
+  text-align: center;
+}
+
+.r18-items:nth-child(1) {
+  background: rgba(0, 255, 255, 0.05);
+}
+
+.r18-items:nth-child(2) {
+  background: rgba(255, 0, 0, 0.05);
+}
+
+.r18-items:nth-child(3) {
+  background: rgba(0, 255, 0, 0.05);
+}
+
+@media all and (min-width: 900px) {
+  .r18-items {
+    flex: 1 auto;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .r18-items {
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
+
+.r18-columns {
+  display: inline-flex;
+  font-family: 'Open Sans Condensed', sans-serif;
+  padding-top: 5px;
+}
+
+.r18-separator {
+  border-top: 1px dotted rgba(255, 255, 255, 0.3);
+  width: 100%
+}
+
+.r18-flag {}
+
+.r18-name {
+  color: #FFFFFF;
+  font-size: 13px;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding: 5px;
+  position: relative;
+  top: -6px;
+}
+
+.r18-team-l {
+  padding-right: 5px;
+}
+
+.r18-team-l::after {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: 300;
+  content: ":";
+  color: #ffffff;
+  font-size: 28px;
+  line-height: 0;
+  top: -2px;
+  position: relative;
+  margin-left: 5px;
+}
+
+.r18-team-r {
+  padding-left: 2px;
+}
+
+.r18-team-r .flag-icon, .r18-team-l .flag-icon {
+  position: relative;
+  top: -4px;
+}
+
+.r18-score {
+  font-weight: 700;
+  font-size: 17.5px;
+  background: rgba(255, 255, 255, 0.2);
+  color: #fafafa;
+  position: relative;
+  padding: 0 10px;
+  top: -5px;
+}
+
+.r18-time {
+  color: #FFFFFF;
+  font-family: 'Open Sans', sans-serif;
+  display: inline-flex;
+  margin-bottom: -5px;
+}
+
+.r18-hour {
+  font-weight: 100;
+  font-size: 36px;
+}
+
+.r18-text::after {
+  content: "";
+  position: absolute;
+  height: 18px;
+  border-left: 1px dotted rgba(255, 255, 255, 0.3);
+  top: 17px;
+  margin-left: -10px;
+}
+
+.r18-text {
+  display: inline-grid;
+  margin-left: 20px;
+  position: relative;
+  min-width: 48px;
+}
+
+.r18-text span:first-child {
+  font-size: 12px;
+  font-weight: 300;
+  text-transform: uppercase;
+  text-align: left;
+  position: relative;
+  top: 10px;
+}
+
+.r18-text span:last-child {
+  font-size: 12px;
+  font-weight: 700;
+  position: absolute;
+  top: 25px;
+}
