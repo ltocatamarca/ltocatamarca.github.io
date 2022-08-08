@@ -1,11 +1,29 @@
-<script src="//cdn.jsdelivr.net/jwplayer/6.7/jwplayer.js"></script>
-<div id="player_6"></div>
-<script>
-    jwplayer("player_6").setup({
-      image: "",
-      file: "https://ltocatamarca.github.io/ltotv.m3u8",
-      width: "100%",
-      aspectratio: "16:9"
-    });
-</script>
-
+<html>
+<head>
+  </head>
+<body>
+  <div class='video'>
+  <script src="https://use.fontawesome.com/20603b964f.js"></script>
+<script type="text/javascript" src="https://content.jwplatform.com/libraries/LJ361JYj.js"></script>
+		<script type="text/javascript">jwplayer.key = 'ypdL3Acgwp4Uh2/LDE9dYh3W/EPwDMuA2yid4ytssfI=';</script><div id="myElement"></div><script type="text/javascript">
+					    jwplayer("myElement").setup({
+								image: "https://content.jwplatform.com/thumbs/xJ7Wcodt-720.jpg",
+					    		aspectratio: "16:9",
+								width: '100%',
+								aspectratio: '16:9',
+					    		autostart: false,
+				file : 'https://ltocatamarca.github.io/ltotv.m3u8',
+				abouttext: 'LTO TELEVISION',
+				aboutlink: 'https://lastejasonline.blogspot.com',
+	
+				captions: {color: '#ffb800',fontSize: 30,backgroundOpacity: 0},
+				sharing: {
+					sites: ['facebook','twitter','tumblr','googleplus',{icon: '//support-static.jwplayer.com/images/awesome.svg', src: 'http://www.jwplayer.com/?', label:'jwplayer'}],
+					code: encodeURI("<iframe src='<?php echo $sharing;?>' width='480' height='320'></iframe>"),
+					link: "<?php echo $sharing;?>"
+						}
+						    })
+					</script>
+  </div>
+  </body>
+</html>
