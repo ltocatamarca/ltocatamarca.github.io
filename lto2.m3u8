@@ -1,8 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:5
-#EXT-X-MEDIA:TYPE=AUDIO,URI="https://stmvideo1.livecastv.com/valleviejo/valleviejo/chunklist_w182129178.m3u8",GROUP-ID="LTOTV1",LANGUAGE="es",NAME="Señal 1",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2"
-#EXT-X-MEDIA:TYPE=AUDIO,URI="https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream02/streamPlaylist.m3u8",GROUP-ID="LTOTV2",LANGUAGE="es",NAME="Señal 2",AUTOSELECT=YES,CHANNELS="2"
-#EXT-X-STREAM-INF:BANDWIDTH=604358,AVERAGE-BANDWIDTH=549418,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=29.970,AUDIO="LTOTV1"
-https://stmvideo1.livecastv.com/valleviejo/valleviejo/chunklist_w182129178.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=837558,AVERAGE-BANDWIDTH=761418,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=711x400,FRAME-RATE=29.970,AUDIO="LTOTV2"
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream02/streamPlaylist.m3u8
