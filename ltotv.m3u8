@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=1140483,CODECS="avc1.100.31,mp4a.40.2",RESOLUTION=1280x720
-https://livestreams.flote.app:5443/flote/streams/b735de77-d64a-4c9b-aad4-a25c23108c01.m3u8
+https://octubre-live.cdn.vustreams.com/live/ip/live.isml/live-audio_1=128000-video=2800000.m3u8
