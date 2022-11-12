@@ -1,17 +1,17 @@
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSw2yMcTqhKdvfWtFct2pBroKSFgxMlqYTAw&usqp=CAU" group-title="TV", CANAL 7 CATAMARCA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSw2yMcTqhKdvfWtFct2pBroKSFgxMlqYTAw&usqp=CAU" group-title="TV", Canal 7
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY63nVBAYYZYuND4n-jl7fRGHGv_1k_8zhaZPxKkbwxw&s" group-title="TV", CANAL 8 CATAMARCA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY63nVBAYYZYuND4n-jl7fRGHGv_1k_8zhaZPxKkbwxw&s" group-title="TV", Canal 8
 https://stream.arcast.com.ar/c8/c8/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/426070/2da1b806d0d1350d71315d315a177c8b_165x165.webp" group-title="TV", LTO CATAMARCA
+#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/426070/2da1b806d0d1350d71315d315a177c8b_165x165.webp" group-title="TV", LTO Television
 https://ltocatamarca.github.io/ltotv.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_5Ip3VivHGzObNU-wa3TaR-FZ2Duj9ruHtNaOw=s88-c-k-c0x00ffffff-no-rj" group-title="TV", CANAL 6 POMAN
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_5Ip3VivHGzObNU-wa3TaR-FZ2Duj9ruHtNaOw=s88-c-k-c0x00ffffff-no-rj" group-title="TV", Canal 6 Poman
 https://streamcasthd.com:19360/radiovision939/radiovision939.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWaACc-zF5PmhahmiDut_LS_qbu540xdh-pVF1eWqYkimEfjug1pmJ2sqixfitdZybBzw&usqp=CAU" group-title="TV", CANAL 7 SAUJIL
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWaACc-zF5PmhahmiDut_LS_qbu540xdh-pVF1eWqYkimEfjug1pmJ2sqixfitdZybBzw&usqp=CAU" group-title="TV", Canal 7 Saujil
 https://streamcasthd.com:19360/canal7saujil/canal7saujil.m3u8
 
-#EXTINF:-1 tvg-logo="https://radiovalleviejo.com.ar/wp-content/uploads/2020/03/logo2020.png" group-title="TV", RADIO VALLE VIEJO TV
+#EXTINF:-1 tvg-logo="https://radiovalleviejo.com.ar/wp-content/uploads/2020/03/logo2020.png" group-title="TV", Radio Valle Viejo TV
 https://stmvideo1.livecastv.com/valleviejo/valleviejo/playlist.m3u8
