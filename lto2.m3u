@@ -27,3 +27,9 @@ https://vps-6de10815.vps.ovh.ca:10957/;
 
 #EXTINF:-1 tvg-logo="https://www.columna-spine.com/wp-content/uploads/2020/05/elesquiu-logo.png" group-title="Radio", El Esquiu Radio
 https://kappa.radioplayer.com.ar:9192/elesquiu953?1668285432926
+
+#EXTINF:-1 tvg-logo="https://admin.auto-messenger.ru/storage/city_radio/10613/24199/conversions/fzZGzXSqW21JPUV3a85Nwbn1VSeELi-metabmFjaW9uYWwtY2F0YW1hcmNhLnBuZw==--lg.webp" group-title="Radio", Radio Nacional Catamarca
+https://sa.mp3.icecast.magma.edge-access.net/sc_rad27
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/TMSgwY63ze.png" group-title="Radio", LTO Radio
+http://stream.zeno.fm/53v3zysszk0uv
