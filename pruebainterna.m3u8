@@ -1,4 +1,7 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=1140483,CODECS="avc1.100.31,mp4a.40.2",RESOLUTION=1280x720
-https://live.prd.dlive.tv/hls/live/lastejasonline.m3u8
+#EXTM3U8
+
+playlist = m3u8.load('http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/urbanaplay')  # this could also be an absolute filename
+
+print(playlist.segments)
+
+print(playlist.target_duration)
