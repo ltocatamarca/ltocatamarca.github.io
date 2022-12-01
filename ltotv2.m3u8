@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000,RESOLUTION=1280x720,FRAME-RATE=60
+https://www.vimm.tv/hls/lastejasonline_source/index.m3u8
