@@ -8,7 +8,7 @@ https://stream.arcast.com.ar/c8/c8/playlist.m3u8
 https://ltocatamarca.github.io/ltotv.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/426070/2da1b806d0d1350d71315d315a177c8b_165x165.webp" group-title="TV", Las Tejas Online
-https://www.vimm.tv/hls/lastejasonline.m3u8
+https://ltocatamarca.github.io/ltotv2.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_5Ip3VivHGzObNU-wa3TaR-FZ2Duj9ruHtNaOw=s88-c-k-c0x00ffffff-no-rj" group-title="TV", Canal 6 Poman
 https://streamcasthd.com:19360/radiovision939/radiovision939.m3u8
