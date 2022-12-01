@@ -1,29 +1,27 @@
-<div class='video'>
-  <script src="https://use.fontawesome.com/20603b964f.js"></script>
-  <script type="text/javascript" src="https://content.jwplatform.com/libraries/LJ361JYj.js"></script>
-  <script type="text/javascript">
-    jwplayer.key = 'ypdL3Acgwp4Uh2/LDE9dYh3W/EPwDMuA2yid4ytssfI=';
-    // jwplayer.key = 'ITWMv7t88JGzI0xPwW8I0+LveiXX9SWbfdmt0ArUSyc=';
-  </script>
-  <div id="myElement"></div>
-  <script type="text/javascript">
-    jwplayer("myElement").setup({
-      image: "https://scontent.fcor13-1.fna.fbcdn.net/v/t39.30808-6/263101280_406946371163312_1301261838761374984_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_ohc=AxMatX1M8VcAX9cl-YG&_nc_ht=scontent.fcor13-1.fna&oh=00_AT_tRrjbUA9J6N0eu8MOxKqua1vlzXG_dMf6RSykzJhYag&oe=62F7897E",
-      //aspectratio: "16:9",
-      // width: '100%',
-      height: window.innerHeight,
-      autostart: false,
-      file : 'https://ltocatamarca.github.io/ltotv.m3u8',
-      title: 'LTO Televisión',
-      description: 'la tele del futuro',
-      aboutlink: 'https://lastejasonline.blogspot.com/',
+<head>
+  <link href="https://vjs.zencdn.net/7.20.3/video-js.css" rel="stylesheet" />
+</head>
 
-      captions: {color: '#ffb800',fontSize: 30,backgroundOpacity: 0},
-      sharing: {
-        sites: ['facebook','twitter','tumblr','googleplus',{icon: '//support-static.jwplayer.com/images/awesome.svg', src: 'http://www.jwplayer.com/?', label:'jwplayer'}],
-        code: encodeURI("<iframe src='<?php echo $sharing;?>' width='480' height='320'></iframe>"),
-        link: "<?php echo $sharing;?>"
-      }
-    })
-  </script>
-</div>
+<body>
+  <video
+    id="lto-tv-1"
+    class="video-js"
+    controls
+    preload="auto"
+    width="100%"
+    height="100%"
+    poster=""
+    data-setup="{}"
+  >
+    <source src="https://ltocatamarca.github.io/ltotv.m3u8" type="video/mpeg" />
+    <p class="vjs-no-js">
+      To view this video please enable JavaScript, and consider upgrading to a
+      web browser that
+      <a href="https://videojs.com/html5-video-support/" target="_blank"
+        >supports HTML5 video</a
+      >
+    </p>
+  </video>
+
+  <script src="https://vjs.zencdn.net/7.20.3/video.min.js"></script>
+</body>
