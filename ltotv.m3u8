@@ -1,7 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:7
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="1",NAME="none",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="https://piczel.tv:800/live/94134/chunklist_1_audio_1JOpw3Rt_llhls.m3u8?session=77_XsWYbl7O"
-
-#EXT-X-STREAM-INF:BANDWIDTH=3054000,RESOLUTION=1280x720,FRAME-RATE=30.0,CODECS="avc1.64001f,mp4a.40.2",AUDIO="1"
-https://piczel.tv:800/live/94134/chunklist_0_video_1JOpw3Rt_llhls.m3u8?session=77_XsWYbl7O
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1140483,CODECS="avc1.100.31,mp4a.40.2",RESOLUTION=1280x720
+https://stmvideo1.livecastv.com/valleviejo/valleviejo/playlist.m3u8
