@@ -1,0 +1,7 @@
+#EXTM3U 
+
+#EXTINF:-1 tvg-id="1" tvg-name="LTO 1" tvg-logo="https://ltocatamarca.github.io/Logo/LTO%201%20Foto%20Portada-1.png", LTO 1
+https://ltocatamarca.github.io/ltotv.m3u8
+
+#EXTINF:-1 tvg-id="2" tvg-name="LTO 2" tvg-logo="https://ltocatamarca.github.io/Logo/LTO%202%20Foto%20Portada-1.png", LTO 2
+https://ltocatamarca.github.io/lto2-video.m3u8
