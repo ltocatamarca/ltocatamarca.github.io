@@ -1,7 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:7
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="1",NAME="none",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="https://piczel.tv:800/live/94566/chunklist_1_audio_loBq5ztE_llhls.m3u8?session=63_GMURvoFK"
-
-#EXT-X-STREAM-INF:BANDWIDTH=3054000,RESOLUTION=1280x720,FRAME-RATE=30.0,CODECS="avc1.64001f,mp4a.40.2",AUDIO="1"
-https://piczel.tv:800/live/94566/chunklist_0_video_loBq5ztE_llhls.m3u8?session=63_GMURvoFK
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1140483,CODECS="avc1.100.31,mp4a.40.2",RESOLUTION=1280x720
+https://live-global-cdn-v02.afreecatv.com/live-stm-06/auth_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.J_sCJ91_h0L8IAvV24bgLzEjvkjIWugwjaRDfhmcnaA7RcbSbBCHTHQcYWA9FfCSqqbbV2hoC6xErvW8UYVprPVgvB26xzaSnSDXE17cFdg
